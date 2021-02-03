@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    <img alt="dev.finances" title="dev.finances" src="./assets/page.png" width="220px" />
+    <img alt="dev.finances" title="dev.finances" src="./assets/page.png" width="600px" />
 </h1>
 
 ## Tecnologias
